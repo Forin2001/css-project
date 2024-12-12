@@ -1,0 +1,17 @@
+h1, h2 {
+    color: blue;   
+}
+
+.box p {
+    color: green;
+}
+
+section button {
+    background-color: red;
+    color: white;
+}
+
+footer {
+    text-align: center;
+
+}
